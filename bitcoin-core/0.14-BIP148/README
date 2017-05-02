@@ -1,0 +1,3 @@
+Compile bitcoin using gitian following official doc
+Download compiled files to current working dir
+Update Dockerfile with the bitcoin version you want to install
